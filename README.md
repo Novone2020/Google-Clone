@@ -1,2 +1,2 @@
 # Google-Clone
-Google Home Clone with simple HTML and CSS.
+Google Clone with simple HTML and CSS.
